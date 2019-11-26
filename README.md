@@ -1,2 +1,0 @@
-# measureText
-Created with CodeSandbox
